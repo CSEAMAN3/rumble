@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  color: red;
+}
+
+section p.more-content {
+  background-color: #ff0000;
+}
+
+.more-content {
+  background-color: #0000ff;
+}
+
+#something-else {
+  border: 5px solid #00ff00;
+}
